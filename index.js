@@ -13,3 +13,12 @@ console.log(B - A)
 console.log(A * C)
 console.log(A / C)
 console.log(A % D)
+// level 2
+
+console.log(`${A} + ${B}`)
+console.log(`${-A} + ${B}`)
+
+var urutan = ['aa', 'bb', 'cc']
+for (i = 0; i < 1; i++) {
+  console.log('angka ke ' + urutan[2])
+}
